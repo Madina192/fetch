@@ -4,4 +4,6 @@
 ## api for posts: https://jsonplaceholder.typicode.com/posts
 ![](posts.png)
 ## api for photos: https://jsonplaceholder.typicode.com/photos
+![](photos.png)
 ## api for users: https://jsonplaceholder.typicode.com/users
+![](users.png)
